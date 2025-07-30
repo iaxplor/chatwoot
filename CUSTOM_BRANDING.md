@@ -8,10 +8,10 @@ Export environment variables and run rake task with `bundle exec rails branding:
 > Unset environment variables are reset to default values.
 
 ```bash
-INSTALLATION_NAME="Chatwoot fazer.ai" \
+INSTALLATION_NAME="Chatwoot aixplor" \
 BRAND_NAME="My Company" \
-LOGO_THUMBNAIL="https://fazer.ai/logo-thumbnail.svg" \
-LOGO="https://fazer.ai/logo.svg" \
+LOGO_THUMBNAIL="https://iaxplor.com/logo-thumbnail.svg" \
+LOGO="https://iaxplor.com/logo.svg" \
 bundle exec rails branding:update
 ```
 
